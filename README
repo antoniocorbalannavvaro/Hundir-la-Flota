@@ -1,0 +1,6 @@
+Proyecto realizado en el bootcamp de Data Science de la Escuela The Bridge.
+En este proyecto recrearemos el famoso juego de "Hundir la flota".
+Para ello utilizaremos la librería de Numpy para hacer uso de matrices, vectores y demás herramientas que pone a 
+nuestra disposición esta librería.
+
+El código está enteramente escrito en Python.
